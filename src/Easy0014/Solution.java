@@ -37,7 +37,7 @@ public class Solution {
         }
         return strs[min_string_index];
     }
-    //---------------------------------------------------------------
+    //---------------------------------------------------------------//
     public static void main(String[] args)
     {
         String[] string1={"This","That","Those","These","Th"};
