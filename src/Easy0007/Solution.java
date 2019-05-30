@@ -1,6 +1,7 @@
 package Easy0007;
 import java.util.ArrayList;
-class Solution {
+class Solution//
+{
     public int reverse(int xr)
     {
         long x=(long)xr;
